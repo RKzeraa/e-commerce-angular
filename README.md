@@ -6,7 +6,7 @@
         <h1 class="page-title">Plano de Aulas - Angular - Marketplace</h1>
     </header>
     <div class="page-body">
-        <blockquote id="dad9487c-e362-4aed-8595-2ec210282cd4" class="">📁 Repositório disponível em: <a href="https://github.com/DianaMartine/angular-marketplace">DianaMartine/angular-marketplace (github.com)</a>!</blockquote>
+        <blockquote id="dad9487c-e362-4aed-8595-2ec210282cd4" class="">📁 Repositório disponível em: <a href="https://github.com/RKzeraa/e-commerce-angular">RKzeraa/e-commerce-angular (github.com)</a>!</blockquote>
         <ul id="a953e808-b557-4943-b11a-14f171347878" class="block-color-red_background toggle">
             <li>
                 <details>
@@ -686,20 +686,9 @@
 
 ## Exemplo da página about
     
-<img src="https://raw.githubusercontent.com/DianaMartine/lab-dio-angular-marketplace/main/assets/img/about-view-example.png" alt="example-about-view" />
-<p>Veja aqui o projeto funcionando: <a href="https://lab-dio-angular-marketplace-9iwbtlgi6-dianamartine.vercel.app/" target="_blank">Click here!</a>
+<img src="#https://raw.githubusercontent.com/DianaMartine/lab-dio-angular-marketplace/main/assets/img/about-view-example.png" alt="example-about-view" />
+<p>Veja aqui o projeto funcionando: <a href="#https://lab-dio-angular-marketplace-9iwbtlgi6-dianamartine.vercel.app/" target="_blank">Click here!</a>
         
 Fiquem a vontade para usar o conhecimento aqui adquirido.
 
 Tudo certo jovem!
-
-# Sobre a autora:
-   
-   <p>
-    Programadora e desenvolvedora Front-end certificada pelo programa de capacitação TRANS.FORMA ofertado pelo Porto Digital. Estudante de Psicologia (UNISÃOMIGUEL) e Análise e Desenvolvimento de Sistemas (UNINABUCO). Musicista profissional, violonista, multi-instrumentista.
-         
-<br>
-      
-Caso esse repositório tenha te ajudado com seus estudos de alguma forma:      
-- 🤝 Fork este repositório para estudo e contribua com o conhecimento.
-- ⭐ deixe sua estrela neste repositório.
